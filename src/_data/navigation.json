@@ -6,14 +6,23 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/manddar",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Instagram",
+      "url": "https://instagram.com/manddar",
+      "external": true
+    },
+    {
+      "text": "Facebook",
+      "url": "https://fb.me/manddar",
+      "external": true
     }
   ]
 }
