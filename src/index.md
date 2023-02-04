@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Thank you for visiting site!!!
-metaDesc: Random thoughts is small blog written by Mandar Oak about technology, travel, trading & random stuff.
-postsHeading: My latest blog posts
+title: Thank you for visiting site!
+metaDesc: Random thoughts is blog written by Mandar Oak about technology, travel, trading & random stuff.
+postsHeading: ✍️ My latest blog posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
