@@ -8,21 +8,6 @@
     {
       "text": "About",
       "url": "/about"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/manddar",
-      "external": true
-    },
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/manddar",
-      "external": true
-    },
-    {
-      "text": "Facebook",
-      "url": "https://fb.me/manddar",
-      "external": true
     }
   ]
 }
