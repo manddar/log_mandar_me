@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Random Thoughts",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "name": "Mandar's blog",
+  "shortDesc": "All about technology, travel, trading & random stuff.",
   "url": "https://log2.mandar.e",
   "authorEmail": "hello@mandar.me",
   "authorHandle": "@manddar",
   "authorName": "Mandar Oak",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": "",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }

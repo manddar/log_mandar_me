@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Random thoughts
-metaDesc: Random thoughts is small blog written by Mandar Oak about technology,
-  travel, trading & random stuff.
-postsHeading: Latest posts
+metaDesc: Random thoughts is small blog written by Mandar Oak about technology, travel, trading & random stuff.
+postsHeading: My latest blog posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
