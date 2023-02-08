@@ -1,12 +1,12 @@
 ---
 layout: home
 title: Thank you for visiting site!
-metaDesc: Random thoughts is blog written by Mandar Oak about technology, travel, trading & random stuff.
+metaDesc: Random thoughts is blog written by Mandar Oak about technology,
+  travel, trading & random stuff.
 postsHeading: ✍️ My latest blog posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
+I am Mandar, I post 'fav' photos taken by me on [instagram](https://instagram.com/manddar) and share thoughts on various topics on [twitter](https://twitter.com/manddar). I rarely share random posts on [facebook](https://fb.me/manddar) as well but not much active, can be reached professionally from [linkedin](https://www.linkedin.com/in/mandaroak/). Write about technology, travel, trading & random stuff here. 
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+This site is published and hosted on [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms) and using [hylia](https://hylia.website/).
