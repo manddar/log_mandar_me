@@ -5,8 +5,17 @@ tags:
   - hello-world
   - blog
 ---
-## Hello world
+Some inspiration first.
 
-Finally I am ready to switch from my old self hosted wordpress blog to 11ty based blog. I am using [Hylia](https://hylia.website/) starterkit and CMS based on [netlify](https://www.netlify.com/) and deployed to [netlify](https://www.netlify.com/). Github used as Dev Ops tool to maintain code and netlify auto deploys all the changes made in code automatically.
+> “You've gotta dance like there's nobody watching, Love like you'll never be hurt, Sing like there's nobody listening, And live like it's heaven on earth.” - William W. Purkey
 
-I will be moving all the older posts from wordpress to this blog, but it will take some time. Feel free to communicate with me on twitter for suggestions and questions.
+and beautiful image.
+
+![Oldie but Goodie, a beautiful landscape at Playa Bonita, Samana.](/images/posts/victor-rosario-sH0CdMyXV74.jpg "Photo by Victor Rosario on Unsplash.")
+
+
+Finally blog is ready to switch from self hosted wordpress to 11ty and this is first post. It is built on [Hylia](https://hylia.website/) starterkit and CMS on [netlify](https://www.netlify.com/). It follows Github for deployment workflow.
+
+All the older posts from wordpress will be slowly moves here and new posts will be aded.
+
+Feel free to communicate with me on twitter for suggestions and questions.
