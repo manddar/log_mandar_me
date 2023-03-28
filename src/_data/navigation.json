@@ -8,6 +8,10 @@
     {
       "text": "✍️ Posts",
       "url": "/posts"
+    },
+    {
+      "text": "About",
+      "url": "/about/index.html"
     }
   ]
 }
