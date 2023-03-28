@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About
-permalink: ""
+permalink: /about/index.html
 metaTitle: About Mandar Oak
 ---
 As I mentioned earlier, I plan to write about a variety of topics on this platform, including technology, travel, trading, and anything else that interests me. I believe that writing is an excellent way to share ideas and connect with others, and I'm excited to be a part of this community.
